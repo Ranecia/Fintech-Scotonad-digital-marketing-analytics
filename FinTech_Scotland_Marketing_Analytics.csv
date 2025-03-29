@@ -1,0 +1,16 @@
+Platform,Campaign_Name,Impressions,Clicks,Engagement_Rate,Conversions,Date,UX_Version,Variant
+LinkedIn,FinTech2024Push,20000,1200,6.0%,300,2024-01-10,A,Control
+Instagram,WomenInFinance,25000,2200,8.8%,280,2024-01-11,B,B
+YouTube,FinTechExplainer,18000,800,4.4%,150,2024-01-12,B,A
+X (Twitter),FinRegUpdate,15000,1000,6.7%,100,2024-01-13,A,Control
+LinkedIn,Q1GrowthCampaign,22000,1300,5.9%,320,2024-01-14,A,Control
+Instagram,WomenInTech2024,26000,2400,9.2%,310,2024-01-15,B,B
+YouTube,InvestorInsights,21000,1100,5.2%,290,2024-01-16,B,B
+X (Twitter),RegChangeNotice,14000,900,6.4%,120,2024-01-17,A,Control
+LinkedIn,SpringEngagement,23000,1500,6.5%,330,2024-01-18,B,B
+Instagram,DEIInitiative,27000,2500,9.3%,315,2024-01-19,B,B
+YouTube,ProductLaunchTeaser,25000,2300,9.2%,305,2024-01-20,A,Control
+X (Twitter),FinTechSimplified,20000,1600,8.0%,290,2024-01-21,A,Control
+LinkedIn,WebinarSeries,19000,1400,7.4%,275,2024-01-22,B,B
+Instagram,TechForAll,24000,2000,8.3%,295,2024-01-23,B,B
+YouTube,FutureFinance,28000,2700,9.6%,325,2024-01-24,B,B
